@@ -9,19 +9,27 @@
       <mobile-menu slot="content"></mobile-menu>
       <sidebar-link to="/dashboard">
         <md-icon>dashboard</md-icon>
-        <p>Dashboard</p>
+        <p>ホーム</p>
       </sidebar-link>
       <sidebar-link to="/user">
         <md-icon>person</md-icon>
-        <p>User Profile</p>
+        <p>管理者ユーザー</p>
       </sidebar-link>
       <sidebar-link to="/table">
         <md-icon>content_paste</md-icon>
-        <p>Table list</p>
+        <p>外部リンク編集</p>
       </sidebar-link>
       <sidebar-link to="/typography">
         <md-icon>library_books</md-icon>
-        <p>Typography</p>
+        <p>スレッド</p>
+      </sidebar-link>
+      <sidebar-link to="/table">
+        <md-icon>content_paste</md-icon>
+        <p>ユーザー管理</p>
+      </sidebar-link>
+      <sidebar-link to="/table">
+        <md-icon>content_paste</md-icon>
+        <p>計測機能</p>
       </sidebar-link>
       <sidebar-link to="/icons">
         <md-icon>bubble_chart</md-icon>
